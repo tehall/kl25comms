@@ -1,2 +1,6 @@
-MSP430F435IPZ||#PZ100-L=100||@Vendor=Texas Instruments||@Manufacturer_Part_Number=MSP430F435IPZ||@Section=Microcontroller and Processor||@Family=Microcontroller||@Manufacturer_Name=Texas Instruments||@RS Part Number=7094024||@Allied_Number=
-Xbee||#DIL=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=
+Freedom_KL25||#USER=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Header_12||#DIL=12||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Header_16||#DIL=16||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Header_20||#DIL=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+MSP430F435IPZ||#PZ100-L=100||@Vendor=Texas Instruments||@Manufacturer_Part_Number=MSP430F435IPZ||@Section=Microcontroller and Processor||@Family=Microcontroller||@Manufacturer_Name=Texas Instruments||@RS Part Number=7094024||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+Xbee||#DIL=20||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
